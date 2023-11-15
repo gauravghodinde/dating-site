@@ -1,0 +1,23 @@
+/* :root {
+    --blue: #1e90ff;
+    --white: #ffffff;
+  } */
+
+.card{
+  position: absolute;
+  top: 20vh;
+    box-shadow: 10px 10px 50px pink;  
+    /* border-color:white;  */
+}
+
+.image{
+   /* width: 30vw; */
+   height: 50vh;
+
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+/* @media (max-height:) {
+    
+} */
